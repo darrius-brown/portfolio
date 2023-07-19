@@ -349,6 +349,14 @@ button:focus:not(:focus-visible) {
   outline: 0;
 }
 
+.my-custom-size {
+  font-size: 50px; 
+}
+
+.my-custom-color {
+  color: rgb(202, 87, 42); 
+}
+
 input,
 button,
 select,
